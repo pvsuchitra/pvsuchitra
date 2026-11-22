@@ -108,14 +108,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvsuchitra&show_icons=true&locale=en&theme=radical" alt="pvsuchitra stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvsuchitra&theme=radical" alt="pvsuchitra streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pvsuchitra&show_icons=true&locale=en&layout=compact&theme=radical" alt="pvsuchitra top langs" />
-</p>
