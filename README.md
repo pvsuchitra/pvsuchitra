@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=pvsuchitra&label=Profile%20views&color=6366f1&style=flat" alt="pvsuchitra" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pvsuchitra&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="pvsuchitra trophies" />
-  </a>
-</p>
 
 ---
 
